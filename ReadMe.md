@@ -1,4 +1,4 @@
-# İlk Fiber Projesi
+# Todo App
 Proje go, fiber ve mongodb(atlas) kullanılarak geliştirildi. Todo ekleme, silme ve tüm todo listesini alma işlemlerini yapmaktadır.
 
 
